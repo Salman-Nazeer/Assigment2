@@ -65,7 +65,7 @@ const Footer = () => {
               <FaYoutube />
             </a>
           </div>
-          <p className="text-sm mt-2">Email: contact@thenic.com</p>
+          <p className="text-xs sm:text-sm lg:text-base text-center whitespace-nowrap mt-2">Email: contact@thenic.com</p>
         </div>
       </div>
     </div>
