@@ -1,0 +1,10 @@
+.backgroungImage {
+  background-image: url("./assets//Navbar-Banner/Backgroundimage.svg");
+}
+.backgroungColor {
+  background-color: #0d6cac;
+}
+
+.footer-background-image {
+  background-image: url("./assets//footer/div.svg");
+}
